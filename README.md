@@ -13,7 +13,7 @@
 - **Loan Approval Prediction with XAI**  
   Built a custom deep neural network (95% accuracy) and integrated Explainable AI to enhance model interpretability and trust.  
 
-- **Business Intelligence Dashboards (Telecom Data)**  
+- [**Business Intelligence Dashboards (Telecom Data)**](https://github.com/Sanad-Alawi/business-intelligence-dashboards)
   Designed 12 interactive dashboards with 100+ KPIs and visualizations to support data-driven decision-making.  
 
 - **Arabic Medical Question Classification**  
