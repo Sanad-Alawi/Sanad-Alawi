@@ -7,7 +7,7 @@
 ---
 
 ## 🔬 Highlighted Projects
-- **Pancreatic Cancer Detection**  
+- [**Pancreatic Cancer Detection**](https://github.com/Sanad-Alawi/pancreatic-cancer-detection) 
   Developed an AI solution for early cancer detection using biomarker data, evaluating 20+ ML/DL models and benchmarking TabPFN.  
 
 - **Loan Approval Prediction with XAI**  
